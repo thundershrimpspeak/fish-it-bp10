@@ -1,4 +1,4 @@
-#  
+#  new Scripts for fish it offers the most advanced fish it Script, with anti-ban and private server access. Perfect for dominating any match.
 
 
 
